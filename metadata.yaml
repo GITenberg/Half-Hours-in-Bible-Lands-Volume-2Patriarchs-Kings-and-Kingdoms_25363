@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31280'
     url: http://www.gutenberg.org/2009/agents/31280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25363#Half-Hours-in-Bible-Lands-Volume-2Patriarchs-Kings-and-Kingdoms
 gutenberg_issued: '2008-05-07'
 gutenberg_type: Text
 identifiers:
