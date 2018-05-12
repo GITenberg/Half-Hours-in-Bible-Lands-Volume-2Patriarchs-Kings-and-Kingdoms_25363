@@ -1,0 +1,29 @@
+_repo: Half-Hours-in-Bible-Lands-Volume-2Patriarchs-Kings-and-Kingdoms_25363
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Headley, P. C. (Phineas Camp)
+    alias: Headley, Phineas Camp
+    birthdate: 1819
+    deathdate: 1903
+    gutenberg_agent_id: '31280'
+    url: http://www.gutenberg.org/2009/agents/31280
+description: ''
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible -- Biography'
+title: 'Half Hours in Bible Lands, Volume 2
+
+  Patriarchs, Kings, and Kingdoms'
+url: http://www.gutenberg.org/ebooks/25363
